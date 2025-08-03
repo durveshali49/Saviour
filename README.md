@@ -42,7 +42,7 @@ A modern, web-based blood donation management system that connects blood donors 
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/durveshali49/Saviour.git
    cd Saviour
    ```
 
@@ -154,7 +154,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [durveshali49](https://github.com/durveshali49)
+- **Shaik Durveshali** - *Initial work* - [durveshali49](https://github.com/durveshali49)
 
 ## 🙏 Acknowledgments
 
@@ -167,5 +167,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For support, email durveshali49@gmail.com or create an issue in this repository.
 
 ---
+
 
 **⚡ Quick Start**: Clone → Compile → Run → Visit `localhost:8080` → Start saving lives! 🩸❤️
