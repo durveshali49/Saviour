@@ -9,7 +9,7 @@ A modern, web-based blood donation management system that connects blood donors 
 - **Eligibility Tracking**: Automatic donation eligibility calculation based on gender-specific cooldown periods
 - **Donation History**: Track your donation history and last donation date
 - **Smart Matching**: Get matched with compatible blood requests in your area.
-- **Real-time Updates**: Receive instant notifications about donation opportunities
+- **Real-time Updates**: Receive instant notifications about donation opportunities.
 
 ### For Receivers 🏥
 - **Quick Request Posting**: Post urgent blood requests with detailed requirements
@@ -170,4 +170,5 @@ For support, email durveshali49@gmail.com or create an issue in this repository.
 
 
 **⚡ Quick Start**: Clone → Compile → Run → Visit `localhost:8080` → Start saving lives! 🩸❤️
+
 
