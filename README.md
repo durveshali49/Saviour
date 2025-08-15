@@ -64,7 +64,7 @@ A modern, web-based blood donation management system that connects blood donors 
 ### For Donors:
 1. **Register**: Fill out the donor registration form with your details
 2. **Verify**: Complete OTP verification via your mobile number
-3. **Browse Requests**: View open blood requests in your area
+3. **Browse Requests**: View open blood requests in your area.
 4. **Donate**: Record your donations to help those in need
 
 ### For Receivers:
@@ -170,6 +170,7 @@ For support, email durveshali49@gmail.com or create an issue in this repository.
 
 
 **⚡ Quick Start**: Clone → Compile → Run → Visit `localhost:8080` → Start saving lives! 🩸❤️
+
 
 
 
