@@ -70,7 +70,7 @@ A modern, web-based blood donation management system that connects blood donors 
 ### For Receivers:
 1. **Register**: Sign up as a blood receiver
 2. **Post Request**: Create a blood request with specific requirements
-3. **Find Donors**: Search for compatible donors in your location
+3. **Find Donors**: Search for compatible donors in your location.
 4. **Track Status**: Monitor your request until fulfillment
 
 ## 🩺 Blood Compatibility Matrix
@@ -170,6 +170,7 @@ For support, email durveshali49@gmail.com or create an issue in this repository.
 
 
 **⚡ Quick Start**: Clone → Compile → Run → Visit `localhost:8080` → Start saving lives! 🩸❤️
+
 
 
 
