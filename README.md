@@ -21,7 +21,7 @@ A modern, web-based blood donation management system that connects blood donors 
 - **Blood Compatibility Matching**: Accurate blood type compatibility checking
 - **Gender-based Cooldown**: 120 days for males, 180 days for females
 - **OTP Verification**: Secure registration process
-- **Real-time Web Interface**: Modern, responsive web UI
+- **Real-time Web Interface**: Modern, responsive web UI.
 - **Request Management**: Automatic request fulfillment tracking
 
 ## 🚀 Technology Stack
@@ -170,6 +170,7 @@ For support, email durveshali49@gmail.com or create an issue in this repository.
 
 
 **⚡ Quick Start**: Clone → Compile → Run → Visit `localhost:8080` → Start saving lives! 🩸❤️
+
 
 
 
