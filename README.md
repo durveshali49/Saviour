@@ -30,7 +30,7 @@ A modern, web-based blood donation management system that connects blood donors 
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+)
 - **Architecture**: RESTful API design
 - **Data Storage**: In-memory data structures (easily extensible to databases)
-- **Server**: Java HttpServer for lightweight deployment.
+- **Server**: Java HttpServer for lightweight deployment
 
 ## 📋 Prerequisites
 
@@ -170,6 +170,7 @@ For support, email durveshali49@gmail.com or create an issue in this repository.
 
 
 **⚡ Quick Start**: Clone → Compile → Run → Visit `localhost:8080` → Start saving lives! 🩸❤️
+
 
 
 
