@@ -1,6 +1,6 @@
 # 🩸 Saviour Blood Donation Web App
 
-A modern, web-based blood donation management system that connects blood donors with receivers in need. This application facilitates seamless blood donation processes with real-time matching, eligibility tracking, and request management
+A modern, web-based blood donation management system that connects blood donors with receivers in need. This application facilitates seamless blood donation processes with real-time matching, eligibility tracking, and request management.
 
 ## 🌟 Features
 
@@ -170,6 +170,7 @@ For support, email durveshali49@gmail.com or create an issue in this repository.
 
 
 **⚡ Quick Start**: Clone → Compile → Run → Visit `localhost:8080` → Start saving lives! 🩸❤️
+
 
 
 
