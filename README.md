@@ -11,7 +11,7 @@ A modern, web-based blood donation management system that connects blood donors 
 - **Smart Matching**: Get matched with compatible blood requests in your area.
 - **Real-time Updates**: Receive instant notifications about donation opportunities.
 
-### For Receivers 🏥
+### For Receivers
 - **Quick Request Posting**: Post urgent blood requests with detailed requirements
 - **Donor Discovery**: Find eligible donors based on blood type and location compatibility
 - **Request Tracking**: Monitor the status of your blood requests in real-time
@@ -170,6 +170,7 @@ For support, email durveshali49@gmail.com or create an issue in this repository.
 
 
 **⚡ Quick Start**: Clone → Compile → Run → Visit `localhost:8080` → Start saving lives! 🩸❤️
+
 
 
 
