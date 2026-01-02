@@ -17,14 +17,14 @@ A modern, web-based blood donation management system that connects blood donors 
 - **Request Tracking**: Monitor the status of your blood requests in real-time
 - **Priority Levels**: Set urgency levels (LOW, MODERATE, HIGH) for critical situations
 
-### System Features ⚙️
+### System Features
 - **Blood Compatibility Matching**: Accurate blood type compatibility checking
 - **Gender-based Cooldown**: 120 days for males, 180 days for females
 - **OTP Verification**: Secure registration process
 - **Real-time Web Interface**: Modern, responsive web UI
 - **Request Management**: Automatic request fulfillment tracking
 
-## 🚀 Technology Stack
+## Technology Stack
 
 - **Backend**: Java 8+ with built-in HTTP server
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+)
@@ -170,6 +170,7 @@ For support, email durveshali49@gmail.com or create an issue in this repository.
 
 
 **⚡ Quick Start**: Clone → Compile → Run → Visit `localhost:8080` → Start saving lives! 🩸❤️
+
 
 
 
